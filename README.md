@@ -6,7 +6,7 @@ Adding IPFS native URL support for chromium based browsers.
 
 ## 🐛 Issues
 
-If you're facing a problem in using The thirdweb Art Engine please let me know by [creating an issue here](https://github.com/warengonzaga/ipfs-support-extension/issues/new). I'm here to help you!
+If you're facing a problem in using the IPFS Support Extension please let me know by [creating an issue here](https://github.com/warengonzaga/ipfs-support-extension/issues/new). I'm here to help you!
 
 ## 📋 Code of Conduct
 
@@ -14,7 +14,7 @@ Read the project's [code of conduct](./code_of_conduct.md).
 
 ## 📃 License
 
-The thirdweb Art Engine is licensed under [The MIT License](https://opensource.org/licenses/MIT).
+The IPFS Support Extension is licensed under [GNU General Public License v3](https://opensource.org/licenses/GPL-3.0).
 
 ## 🍀 Sponsor
 
@@ -25,7 +25,7 @@ The thirdweb Art Engine is licensed under [The MIT License](https://opensource.o
 
 ## 📝 Author
 
-The thirdweb Art Engine is forked and maintained by **[Waren Gonzaga](https://github.com/warengonzaga)**, with the help of awesome [contributors](https://github.com/warengonzaga/ipfs-support-extension/graphs/contributors).
+The IPFS Support Extension is forked and maintained by **[Waren Gonzaga](https://github.com/warengonzaga)**, with the help of awesome [contributors](https://github.com/warengonzaga/ipfs-support-extension/graphs/contributors).
 
 [![contributors](https://contrib.rocks/image?repo=warengonzaga/ipfs-support-extension)](https://github.com/warengonzaga/ipfs-support-extension/graphs/contributors)
 
