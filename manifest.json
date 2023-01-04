@@ -1,0 +1,24 @@
+{
+  "name": "IPFS Support",
+  "description": "Adding IPFS native URL support for chromium based browsers.",
+  "version": "0.1.0",
+  "author": "Waren Gonzaga",
+  "background": {
+    "service_worker": "background.js"
+  },
+  "permissions": ["tabs"],
+  "content_scripts": [
+    {
+      "matches": [
+        "https://google.com/search?q=ipfs%3A%2F%2F*",
+        "https://www.google.com/search?q=ipfs%3A%2F%2F*"
+      ],
+      "js": ["contentScript.js"]
+    }
+  ],
+  "action": {
+    "default_title": "IPFS Support",
+    "default_popup": "popup.html"
+  },
+  "manifest_version": 3
+}
