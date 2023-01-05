@@ -1,6 +1,6 @@
 {
   "name": "IPFS Support",
-  "description": "Adding IPFS native URL support for chromium based browsers.",
+  "description": "Adding standalone IPFS native URL support for chromium based browsers without installing IPFS in your machine.",
   "version": "0.1.0",
   "author": "Waren Gonzaga",
   "icons": {
