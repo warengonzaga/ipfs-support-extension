@@ -3,6 +3,7 @@ chrome.runtime.onMessage.addListener(function(message, sender, response) {
         const queryParam = sender.tab.url.split("?")[1];
         const urlParams = new URLSearchParams(queryParam);
         const ipfsValue = urlParams.get("q");
+        // hardcode for now but will support more public gateway
         const ipfsGateway = "https://gateway.ipfscdn.io/ipfs/";
         const ipfsCID = ipfsValue.slice(7);
         const redirectURL = ipfsGateway + ipfsCID;

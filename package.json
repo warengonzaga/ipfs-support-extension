@@ -1,7 +1,7 @@
 {
   "name": "ipfs-support-extension",
   "version": "0.1.0",
-  "description": "Adding IPFS native URL support for chromium based browsers.",
+  "description": "Adding standalone IPFS native URL support for chromium based browsers without installing IPFS in your machine.",
   "scripts": {
     "start": "parcel watch src/manifest.json --host localhost",
     "build": "parcel build src/manifest.json"

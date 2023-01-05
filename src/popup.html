@@ -6,15 +6,55 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
         body {
-            min-width: 150px;
+            min-width: 200px;
+            background-color: #1b1b23;
+            color: #fff;
+            padding: 10px;
+        }
+        
+        a {
+            color: #fff;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        .title {
+            font-size: 18px;
+            font-weight: bold;
+            margin-bottom: -10px;
+        }
+        .version {
+            font-size: 14px;
+            color: #c1c1c1;
+            font-weight: normal;
+        }
+        .img-wrapper, .sponsor {
+            text-align: center;
+        }
+        .img-wrapper > img {
+            width: 50px;
+        }
+        .sponsor {
+            font-size: 14px;
         }
     </style>
-    <title>Document</title>
+    <title>IPFS Support</title>
 </head>
 <body>
-    <p>
-        <b>IPFS Support Extension</b><br/>
-        by <a href="https://warengonzaga.com" target="_blank" rel="noopener">Waren Gonzaga</a>
-    </p>
+    <div class="img-wrapper">
+        <img src="assets/icon128.png" alt="Icon"/>
+    </div>
+    <div class="title">IPFS Support <span class="version">v0.1.0</span></div>
+    <p>By <a href="https://warengonzaga.com" target="_blank" rel="noopener">Waren Gonzaga</a></p>
+    <p class="description">Adding standalone IPFS native URL support for chromium based browsers without installing IPFS in your machine. 📦🌐🧩</p>
+    <div class="sponsor">
+        <a href="https://github.com/warengonzaga/ipfs-support-extension" target="_blank" rel="noopener">
+            Contribute
+        </a> or 
+        <a href="https://github.com/sponsors/warengonzaga" target="_blank" rel="noopener">
+            Sponsor
+        </a>
+    </div>
 </body>
 </html>

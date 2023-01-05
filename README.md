@@ -2,7 +2,27 @@
 
 [![maintained by](https://img.shields.io/badge/maintained%20by-Waren%20Gonzaga-blue.svg?longCache=true&style=flat-square)](https://github.com/warengonzaga) [![release](https://img.shields.io/github/release/warengonzaga/ipfs-support-extension.svg?style=flat-square)](https://github.com/warengonzaga/ipfs-support-extension/releases) [![star](https://img.shields.io/github/stars/warengonzaga/ipfs-support-extension.svg?style=flat-square)](https://github.com/warengonzaga/ipfs-support-extension/stargazers) [![license](https://img.shields.io/github/license/warengonzaga/ipfs-support-extension.svg?style=flat-square)](https://github.com/warengonzaga/ipfs-support-extension/blob/main/license)
 
-Adding IPFS native URL support for chromium based browsers.
+![repo banner](.github/img/repo-banner.jpg)
+
+Adding standalone IPFS native URL support for chromium based browsers without installing IPFS in your machine. 📦🌐🧩
+
+## 😅 Motivation
+
+I build this extension because I'm lazy for real. I'm dealing with IPFS a lot in my work [@thirdweb](https://thirdweb.com) and I'm lazy to modify the IPFS native URL every single time just to make it work in Google Chrome. I don't wanna use IPFS companion because it requires you to install and run IPFS locally before you are able to use it just to make it support IPFS native URL in your browser. Told you, I'm lazy and I wanna accomplish my tasks quickly as possible. 😅
+
+## 🤔 How It Works
+
+It checks your tab if you input IPFS native url (e.g. `ipfs://`) and then it modifies it and convert into IPFS public gateway URL so you can view the IPFS contents in any normal browser. Nothing fancy technology here, I'm just a lazy developer who likes making things easier.
+
+Currently it depends on google search engine URL parameters and modify it accordingly.
+
+## ✨ Features
+
+- IPFS Gateway URL
+  - `gateway.ipfscdn.io/ipfs/` (Default)
+- Supported Browser
+  - Google Chrome with Google Search Engine (Default)
+  - Microsoft Edge with Google Search Engine (Not Tested)
 
 ## 🐛 Issues
 
@@ -25,7 +45,7 @@ The IPFS Support Extension is licensed under [GNU General Public License v3](htt
 
 ## 📝 Author
 
-The IPFS Support Extension is forked and maintained by **[Waren Gonzaga](https://github.com/warengonzaga)**, with the help of awesome [contributors](https://github.com/warengonzaga/ipfs-support-extension/graphs/contributors).
+The IPFS Support Extension is developed and maintained by **[Waren Gonzaga](https://github.com/warengonzaga)**, with the help of awesome [contributors](https://github.com/warengonzaga/ipfs-support-extension/graphs/contributors).
 
 [![contributors](https://contrib.rocks/image?repo=warengonzaga/ipfs-support-extension)](https://github.com/warengonzaga/ipfs-support-extension/graphs/contributors)
 
