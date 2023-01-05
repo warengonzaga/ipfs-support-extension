@@ -12,6 +12,8 @@ I build this extension because I'm lazy for real. I'm dealing with IPFS a lot in
 
 ## 🤔 How It Works
 
+![demo](.github/img/demo.gif)
+
 It checks your tab if you input IPFS native url (e.g. `ipfs://`) and then it modifies it and convert into IPFS public gateway URL so you can view the IPFS contents in any normal browser. Nothing fancy technology here, I'm just a lazy developer who likes making things easier.
 
 Currently it depends on google search engine URL parameters and modify it accordingly.
