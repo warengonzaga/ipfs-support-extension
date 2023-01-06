@@ -12,6 +12,8 @@ Adding standalone IPFS native URL support for chromium based browsers without in
 
 I build this extension because I'm lazy for real. I'm dealing with IPFS a lot in my work [@thirdweb](https://thirdweb.com) and I'm lazy to modify the IPFS native URL every single time just to make it work in Google Chrome. I don't wanna use IPFS companion because it requires you to install and run IPFS locally before you are able to use it just to make it support IPFS native URL in your browser. Told you, I'm lazy and I wanna accomplish my tasks quickly as possible. 😅
 
+[![producthunt](https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=373952&theme=light)](https://www.producthunt.com/posts/ipfs-support-extension?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-ipfs&#0045;support&#0045;extension)
+
 ## 🤔 How It Works
 
 ![demo](.github/img/demo.gif)
