@@ -2,9 +2,11 @@
 
 [![maintained by](https://img.shields.io/badge/maintained%20by-Waren%20Gonzaga-blue.svg?longCache=true&style=flat-square)](https://github.com/warengonzaga) [![release](https://img.shields.io/github/release/warengonzaga/ipfs-support-extension.svg?style=flat-square)](https://github.com/warengonzaga/ipfs-support-extension/releases) [![star](https://img.shields.io/github/stars/warengonzaga/ipfs-support-extension.svg?style=flat-square)](https://github.com/warengonzaga/ipfs-support-extension/stargazers) [![license](https://img.shields.io/github/license/warengonzaga/ipfs-support-extension.svg?style=flat-square)](https://github.com/warengonzaga/ipfs-support-extension/blob/main/license)
 
-![repo banner](.github/img/repo-banner.jpg)
+[![repo banner](.github/img/repo-banner.jpg)](https://chrome.google.com/webstore/detail/ipfs-support/bgkgpjkailocmhjioiakogohkahhfbhp)
 
 Adding standalone IPFS native URL support for chromium based browsers without installing IPFS in your machine. 📦🌐🧩
+
+[![download](.github/img/chrome-webstore.png)](https://chrome.google.com/webstore/detail/ipfs-support/bgkgpjkailocmhjioiakogohkahhfbhp)
 
 ## 😅 Motivation
 
