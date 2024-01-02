@@ -24,7 +24,9 @@
         "https://duckduckgo.com/?q=ipfs%3A%2F%2F*",
         "https://www.duckduckgo.com/?q=ipfs%3A%2F%2*",
         "https://search.brave.com/search?q=ipfs%3A%2F%2*",
-        "https://www.search.brave.com/search?q=ipfs%3A%2F%2*"
+        "https://www.search.brave.com/search?q=ipfs%3A%2F%2*",
+        "https://search.yahoo.com/search?p=ipfs%3A%2F%2*",
+        "https://www.search.yahoo.com/search?p=ipfs%3A%2F%2*"
       ],
       "js": ["contentScript.js"]
     }
