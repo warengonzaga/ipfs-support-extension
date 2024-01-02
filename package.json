@@ -26,5 +26,6 @@
   "devDependencies": {
     "@parcel/config-webextension": "^2.8.2",
     "parcel": "^2.8.2"
-  }
+  },
+  "dependencies": {}
 }
