@@ -18,7 +18,13 @@
     {
       "matches": [
         "https://google.com/search?q=ipfs%3A%2F%2F*",
-        "https://www.google.com/search?q=ipfs%3A%2F%2F*"
+        "https://www.google.com/search?q=ipfs%3A%2F%2F*",
+        "https://bing.com/search?q=ipfs%3A%2F%2F*",
+        "https://www.bing.com/search?q=ipfs%3A%2F%2F*",
+        "https://duckduckgo.com/?q=ipfs%3A%2F%2F*",
+        "https://www.duckduckgo.com/?q=ipfs%3A%2F%2*",
+        "https://search.brave.com/search?q=ipfs%3A%2F%2*",
+        "https://www.search.brave.com/search?q=ipfs%3A%2F%2*"
       ],
       "js": ["contentScript.js"]
     }
