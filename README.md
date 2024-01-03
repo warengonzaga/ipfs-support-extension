@@ -1,6 +1,6 @@
-# IPFS Support Extension [![Mentioned in Awesome thirdweb](https://awesome.re/mentioned-badge-flat.svg)](https://github.com/warengonzaga/awesome-thirdweb)
+# IPFS Support (Extension) [![by](https://img.shields.io/badge/by-Waren%20Gonzaga-fe59ae.svg?longCache=true&labelColor=181717&style=flat-square)](https://warengonzaga.com) [![Mentioned in Awesome thirdweb](https://awesome.re/mentioned-badge-flat.svg)](https://github.com/warengonzaga/awesome-thirdweb)
 
-[![maintained by](https://img.shields.io/badge/maintained%20by-Waren%20Gonzaga-blue.svg?longCache=true&style=flat-square)](https://github.com/warengonzaga) [![release](https://img.shields.io/github/release/warengonzaga/ipfs-support-extension.svg?style=flat-square)](https://github.com/warengonzaga/ipfs-support-extension/releases) [![star](https://img.shields.io/github/stars/warengonzaga/ipfs-support-extension.svg?style=flat-square)](https://github.com/warengonzaga/ipfs-support-extension/stargazers) [![license](https://img.shields.io/github/license/warengonzaga/ipfs-support-extension.svg?style=flat-square)](https://github.com/warengonzaga/ipfs-support-extension/blob/main/license)
+[![maintainer](https://img.shields.io/badge/maintainer-Waren%20Gonzaga-016eea.svg?logo=github&labelColor=181717&longCache=true&style=flat-square)](https://ossph.org) [![release](https://img.shields.io/github/release/warengonzaga/ipfs-support-extension.svg?logo=github&labelColor=181717&color=green&style=flat-square)](https://github.com/warengonzaga/ipfs-support-extension/releases) [![star](https://img.shields.io/github/stars/warengonzaga/ipfs-support-extension.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/warengonzaga/ipfs-support-extension/stargazers) [![license](https://img.shields.io/github/license/warengonzaga/ipfs-support-extension.svg?&logo=github&labelColor=181717&style=flat-square)](https://github.com/warengonzaga/ipfs-support-extension/blob/main/license) [![installs](https://img.shields.io/chrome-web-store/users/bgkgpjkailocmhjioiakogohkahhfbhp?style=flat-square&logo=Google%20Chrome&logoColor=%23fff&label=installs&labelColor=%23181717&color=%2301A661)](https://chrome.google.com/webstore/detail/ipfs-support/bgkgpjkailocmhjioiakogohkahhfbhp)
 
 [![repo banner](.github/img/repo-banner.jpg)](https://chrome.google.com/webstore/detail/ipfs-support/bgkgpjkailocmhjioiakogohkahhfbhp)
 
@@ -27,8 +27,17 @@ Currently it depends on google search engine URL parameters and modify it accord
 - IPFS Gateway URL
   - `gateway.ipfscdn.io/ipfs/` (Default)
 - Supported Browser
-  - Google Chrome with Google Search Engine (Default)
-  - Microsoft Edge with Google Search Engine (Not Tested)
+  - Google Chrome
+  - Microsoft Edge
+  - Brave Browser
+- Supported IPFS Native URL
+  - `ipfs://`
+- Supported Search Engine
+  - Google
+  - Bing
+  - DuckDuckGo
+  - Brave Search
+  - Yahoo
 
 ## 🐛 Issues
 
