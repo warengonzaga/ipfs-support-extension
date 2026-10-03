@@ -24,8 +24,8 @@
   },
   "homepage": "https://github.com/warengonzaga/ipfs-support-extension#readme",
   "devDependencies": {
-    "@parcel/config-webextension": "^2.8.2",
-    "parcel": "^2.8.2"
+    "@parcel/config-webextension": "^2.16.4",
+    "parcel": "^2.16.4"
   },
   "dependencies": {}
 }
